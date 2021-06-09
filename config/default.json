@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://neriah18:n3riahYlain3@cluster0.3vpub.mongodb.net/blogDB?retryWrites=true&w=majority",
+    "jwtSecret" : "supersecretcode"
+}
